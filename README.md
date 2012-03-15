@@ -4,6 +4,21 @@ This repository contains the Markdown source for **Polishing Rubies**, a guide t
 
 You can follow along with the blog posts [on the Intridea blog](http://intridea.com/blog/tag/polishing%20rubies). The source for each post will be added here either shortly before or shortly after it goes live.
 
+## Chapters/Topics (Working Outline)
+
+* Introduction
+* Creating a Gem
+* Tooling Your Gem
+* Writing Library Code
+* Testing Library Code
+* Writing Documentation
+* Preparing for Release
+* Versioning Your Gem
+* Managing Contributions
+* Managing Community
+* Long-Term Maintenance
+* Passing the Torch
+
 ## Contributing
 
 I already have some idea of the flow and structure of the posts, however I would love to see help on:
