@@ -57,7 +57,7 @@ first gem.
 A RubyGem is essentially a specially structured folder that contains the
 source code, description, documentation, and tests of a Ruby library.
 Gems can sometimes contain command-line executables as well. The file
-structure of a Ruby usually looks like this:
+structure of a RubyGem usually looks like this:
 
 <pre>
   my-gem
